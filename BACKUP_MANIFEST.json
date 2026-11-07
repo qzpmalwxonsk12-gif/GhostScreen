@@ -1,45 +1,62 @@
 {
   "source_files": [
     {
+      "path": ".gitignore",
+      "size": 553,
+      "sha256": "7377ba9d4ea6a08845c9fd438baf506a89f0fb43c459435e0c6058d8bba314f4"
+    },
+    {
+      "path": "BACKUP_NOTES.md",
+      "size": 463,
+      "sha256": "78a2a8a804795359166f1f71eb86f01c78be69c767a4e6e0c509d1f8c2ec0eb4"
+    },
+    {
       "path": "BlackoutOverlayForm.cs",
-      "sha256": "b960ef34abe75714560e23f3f393398af7c3602b6afb67c26b7ddfaced820ee7",
-      "size": 2996
+      "size": 2996,
+      "sha256": "b960ef34abe75714560e23f3f393398af7c3602b6afb67c26b7ddfaced820ee7"
     },
     {
       "path": "BrightnessController.cs",
-      "sha256": "d3e5981b7b1ca5e4f9b4eb1a05b7cd6fa02fc1a9f1a917df21f1ae1e93732a8f",
-      "size": 5248
+      "size": 5248,
+      "sha256": "d3e5981b7b1ca5e4f9b4eb1a05b7cd6fa02fc1a9f1a917df21f1ae1e93732a8f"
     },
     {
       "path": "GhostScreen.csproj",
-      "sha256": "08f4b12693d84ca12cb602448004db121a200aabba5fe8a10fe85e8a30164a01",
-      "size": 501
+      "size": 501,
+      "sha256": "08f4b12693d84ca12cb602448004db121a200aabba5fe8a10fe85e8a30164a01"
     },
     {
       "path": "Launch-GhostScreen.bat",
-      "sha256": "feb9e30c0035a6a020ef694146c8a6ead720fb5ac2c48b240923c75973671087",
-      "size": 73
+      "size": 73,
+      "sha256": "feb9e30c0035a6a020ef694146c8a6ead720fb5ac2c48b240923c75973671087"
     },
     {
       "path": "MainForm.cs",
-      "sha256": "ee1330b4e44d2b597d555eb660ea8292e0fa44ce68c6a2345f7e9fde1170bb3b",
-      "size": 23947
+      "size": 23947,
+      "sha256": "ee1330b4e44d2b597d555eb660ea8292e0fa44ce68c6a2345f7e9fde1170bb3b"
     },
     {
       "path": "NativeMethods.cs",
-      "sha256": "ffa3d9adb5971fe9d7ffee83e1e87a9775b678c8b49e22be34a634f6ecc468f3",
-      "size": 3235
+      "size": 3235,
+      "sha256": "ffa3d9adb5971fe9d7ffee83e1e87a9775b678c8b49e22be34a634f6ecc468f3"
     },
     {
       "path": "ParsecVddController.cs",
-      "sha256": "11d9e777e8ab3ae2982008b358b99724047a2f05454d28f2fdbac361ed55e2ce",
-      "size": 27462
+      "size": 27462,
+      "sha256": "11d9e777e8ab3ae2982008b358b99724047a2f05454d28f2fdbac361ed55e2ce"
     },
     {
       "path": "Program.cs",
-      "sha256": "0c52067fea33367dbf0716045621807bf2a232af61cc39fa6a3c72bde3155ee7",
-      "size": 1449
+      "size": 1449,
+      "sha256": "0c52067fea33367dbf0716045621807bf2a232af61cc39fa6a3c72bde3155ee7"
+    },
+    {
+      "path": "README.md",
+      "size": 3737,
+      "sha256": "943fba2aa28101f9ed57900da73d7a69d56c6050e83ba4ebedd1aa1c88c2c07e"
     }
   ],
-  "hash_basis": "Prepared source bytes before Git line-ending normalization and README notice prefixes."
+  "hash_basis": "Prepared source bytes before Git line-ending normalization and README notice prefixes.",
+  "last_reviewed": "2026-11-07",
+  "manifest_scope": "Current reviewed source snapshot, excluding this manifest itself and untracked generated outputs."
 }
