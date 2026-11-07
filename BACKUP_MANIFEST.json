@@ -1,0 +1,45 @@
+{
+  "source_files": [
+    {
+      "path": "BlackoutOverlayForm.cs",
+      "sha256": "b960ef34abe75714560e23f3f393398af7c3602b6afb67c26b7ddfaced820ee7",
+      "size": 2996
+    },
+    {
+      "path": "BrightnessController.cs",
+      "sha256": "d3e5981b7b1ca5e4f9b4eb1a05b7cd6fa02fc1a9f1a917df21f1ae1e93732a8f",
+      "size": 5248
+    },
+    {
+      "path": "GhostScreen.csproj",
+      "sha256": "08f4b12693d84ca12cb602448004db121a200aabba5fe8a10fe85e8a30164a01",
+      "size": 501
+    },
+    {
+      "path": "Launch-GhostScreen.bat",
+      "sha256": "feb9e30c0035a6a020ef694146c8a6ead720fb5ac2c48b240923c75973671087",
+      "size": 73
+    },
+    {
+      "path": "MainForm.cs",
+      "sha256": "ee1330b4e44d2b597d555eb660ea8292e0fa44ce68c6a2345f7e9fde1170bb3b",
+      "size": 23947
+    },
+    {
+      "path": "NativeMethods.cs",
+      "sha256": "ffa3d9adb5971fe9d7ffee83e1e87a9775b678c8b49e22be34a634f6ecc468f3",
+      "size": 3235
+    },
+    {
+      "path": "ParsecVddController.cs",
+      "sha256": "11d9e777e8ab3ae2982008b358b99724047a2f05454d28f2fdbac361ed55e2ce",
+      "size": 27462
+    },
+    {
+      "path": "Program.cs",
+      "sha256": "0c52067fea33367dbf0716045621807bf2a232af61cc39fa6a3c72bde3155ee7",
+      "size": 1449
+    }
+  ],
+  "hash_basis": "Prepared source bytes before Git line-ending normalization and README notice prefixes."
+}
